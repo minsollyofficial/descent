@@ -1,0 +1,62 @@
+{
+    "secondaryKeywords": [
+        "const",
+        "function",
+        "var",
+        "let",
+        "prototype",
+        "Math",
+        "JSON",
+        "mappet"
+    ],
+    "special": [
+        "this",
+        "arguments",
+		"filter"
+    ],
+    "operators": [
+        "+",
+        "-",
+        "=",
+        "/",
+        "*",
+        "<",
+        ">",
+        "~",
+        "&",
+        "|",
+        "!"
+    ],
+    "typeKeywords": [
+        "true",
+        "false",
+        "null",
+        "undefined"
+    ],
+    "functionName": "[\\w_][\\d\\w_]*",
+    "primaryKeywords": [
+        "break",
+        "continue",
+        "switch",
+        "case",
+        "default",
+        "try",
+        "catch",
+        "delete",
+        "do",
+        "while",
+        "else",
+        "finally",
+        "if",
+        "for",
+        "each",
+        "in",
+        "instanceof",
+        "new",
+        "throw",
+        "typeof",
+        "with",
+        "yield",
+        "return"
+    ]
+}

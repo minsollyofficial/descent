@@ -1,0 +1,34 @@
+{
+    "features": {
+        "autocomplete_enabled": true,
+        "doc_panel_enabled": true
+    },
+    "autocomplete": {
+        "max_visible_items": 12,
+        "menu_width": 0,
+        "menu_height": 0,
+        "menu_offset_x": 0,
+        "menu_offset_y": 0
+    },
+    "tabpad": {
+        "tab_select_mode": 1,
+        "lock_arrows": false
+    },
+    "doc_panel": {
+        "doc_panel_scale": 1.0,
+        "doc_panel_width": 240,
+        "doc_panel_height": 200
+    },
+    "autocomplete_colors": {
+        "var": -11549705,
+        "array": -8271996,
+        "object": -18611,
+        "function": -3238952,
+        "keyword": -1023342,
+        "iscript": -12285697,
+        "java": -36797,
+        "other": -5592406,
+        "lib": -14235942,
+        "icon": -5908825
+    }
+}

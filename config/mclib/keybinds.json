@@ -1,0 +1,59 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "creativecoredummy": {
+        "": {}
+    },
+    "littletilescore": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "thehub": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "metamorph": {
+        "": {}
+    },
+    "blockbuster": {
+        "": {}
+    },
+    "chameleon_morph": {
+        "": {}
+    },
+    "creativecore": {
+        "": {}
+    },
+    "littletiles": {
+        "": {}
+    },
+    "mappet": {
+        "": {}
+    },
+    "devtool": {
+        "": {}
+    },
+    "soundfilters": {
+        "": {}
+    },
+    "worldlauncher": {
+        "": {}
+    },
+    "": {
+        "": {}
+    }
+}

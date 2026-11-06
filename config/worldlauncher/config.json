@@ -1,0 +1,44 @@
+{
+    "custom_map": {
+        "custom_map": false
+    },
+    "map": {
+        "map_id": ""
+    },
+    "load": {
+        "load": false
+    },
+    "pause_menu": {
+        "has_custom_menu": false
+    },
+    "script_name": {
+        "script_name": ""
+    },
+    "window_name": {
+        "window_name": "Minecraft 1.12.2"
+    },
+    "custom_icon": {
+        "custom_icon": false
+    },
+    "path": {
+        "path": ""
+    },
+    "path32": {
+        "path32": ""
+    },
+    "worldlan": {
+        "worldlan": false
+    },
+    "hidespectators": {
+        "hidespectators": false
+    },
+    "mappetactivity": {
+        "mappetactivity": true
+    },
+    "button_update": {
+        "button_update": {}
+    },
+    "button_discordrpc": {
+        "button_discordrpc": {}
+    }
+}

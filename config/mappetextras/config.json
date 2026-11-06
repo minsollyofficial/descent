@@ -1,0 +1,25 @@
+{
+    "main_module": {
+        "versionCheck": {},
+        "show_version_update_message": true,
+        "show_update_only_if_outdated": false
+    },
+    "utils_module": {},
+    "utils_module.code_search": {
+        "code_search_color": 587202474,
+        "code_search_background_color": -872415232,
+        "code_search_on_top": false
+    },
+    "utils_module.beautifier": {
+        "indent_empty_lines": false,
+        "unindent_chained_methods": false,
+        "break_chained_methods": false
+    },
+    "utils_module.dimensions": {
+        "flat_dimension_id": 143,
+        "void_dimension_id": 144
+    },
+    "scripts": {
+        "scriptsPath": ""
+    }
+}
